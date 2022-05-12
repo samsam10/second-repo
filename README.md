@@ -1,2 +1,1 @@
-# second-repo
-to get acquinted
+my third reamdme file
